@@ -3,6 +3,12 @@
 
 - 🚀 I’m currently working on [training more Devs](https://www.lewagon.com/)
 
+- 💬 Ask me about **what corners of the world I've seen**
+
+- 📫 How to reach me **matteo.bianchi@hec.edu**
+
+- ⚡ Fun fact **I speak 4 languages, but I'm funny in none of them**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bianchimatteo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bianchimatteo/" height="30" width="40" /></a>
