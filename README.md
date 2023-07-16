@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **what corners of the world I've seen**
 
-- 📫 How to reach me **matteo.bianchi@hec.edu**
+- 📫 How to reach me **LinkedIn**
 
 - ⚡ Fun fact **I speak 4 languages, but I'm funny in none of them**
 
